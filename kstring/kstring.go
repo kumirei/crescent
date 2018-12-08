@@ -1,5 +1,5 @@
 package kstring
 
-func GetRString(in string) string {
+func GetKString(in string) string {
 	return "K" + in
 }
